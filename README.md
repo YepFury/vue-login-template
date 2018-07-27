@@ -4,8 +4,6 @@
 
 ## 简介
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
 作为vue的初学者，在了解了基础知识，通过查阅资料写的一个包含登录验证的vue基础模板，项目中只包含登录页面和一个极其简单的首页。
 
 模板已在本地通过后台接口测试。
